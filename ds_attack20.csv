@@ -1,0 +1,13 @@
+0,CombatZoneResizeInstant,133,251,508,391,,,,,,
+0,CombatZoneResizeInstant,133,251,508,391,,,,,,
+
+0,HeartTeleport,B,,,,,,,,
+0,HeartMode,1,,,,,,,,,
+
+0,BoneRepeat,B,183,391,20,0,0,150,0,5,100,
+0,BoneRepeat,T,183,251,70,0,0,150,0,5,100,
+0,BoneRepeat,B,163,391,115,0,0,150,0,5,100,1,
+
+0,BoneRepeat,B,468,391,20,0,180,150,0,5,100,
+0,BoneRepeat,T,468,251,70,0,180,150,0,5,100,
+0,BoneRepeat,B,488,391,115,0,180,150,0,5,100,1,
